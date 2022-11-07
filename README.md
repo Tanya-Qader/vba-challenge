@@ -18,7 +18,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ### Stock Market Analyst
 
-![alt=""](Images/stockmarket.jpg)
+![alt=""](stockmarket.jpg)
 
 ## Instructions 
 
@@ -36,13 +36,13 @@ Create a script that loops through all the stocks for one year and outputs the f
 
 The result should match the following image:
 
-![moderate_solution](Images/moderate_solution.png)
+![moderate_solution](moderate_solution.png)
 
 ## Bonus
 
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
 
-![hard_solution](Images/hard_solution.png)
+![hard_solution](hard_solution.png)
 
 Make the appropriate adjustments to your VBA script to allow it to run on every worksheet (that is, every year) just by running the VBA script once.
 
